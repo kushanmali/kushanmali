@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kushan malinda</h1>
+<h1 align="center">Hi 👋, I'm Kushan Malinda</h1>
 <h3 align="center">I'm a passionate html, CSS, PHP and Mobile App developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushanmali" alt="kushanmali" /></a> </p>
